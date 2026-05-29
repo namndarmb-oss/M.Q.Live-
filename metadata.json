@@ -1,0 +1,6 @@
+{
+  "name": "M.Q.live",
+  "description": "لوکس‌ترین و پیشرفته‌ترین دستیار صوتی هوشمند مجهز به جمینای. شنیدن پیوسته، پاسخ‌های فوق‌العاده سریع صوتی و طراحی مدرن و شیک.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
